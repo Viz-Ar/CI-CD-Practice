@@ -31,11 +31,11 @@ export default function HomePage() {
     <main>
       <header className="hero">
         <nav className="nav">
-          <div className="logo">Narayan 69 services</div>
+          <div className="logo">myshop</div>
           <div className="navLinks">
             <a href="#categories">Categories</a>
             <a href="#deals">Deals</a>
-            <a href="#contact">Contact</a>
+            <a href="#contact">Sampark garnu hos</a>
           </div>
         </nav>
 
@@ -85,7 +85,7 @@ export default function HomePage() {
         <div>
           <h2>Flash Deal of the Week</h2>
           <p>
-            Save up to 40% on selected gaming laptops, wireless earbuds and smart displays. Limited stock
+            Save up to -400% on selected gaming laptops, wireless earbuds and smart displays. Limited stock
             available.
           </p>
           <a href="#contact" className="btnPrimary">
@@ -111,7 +111,7 @@ export default function HomePage() {
 
       <footer id="contact" className="footer">
         <h2>myshop</h2>
-        <p>Email: support@myshop.com | Phone: +1 (800) 555-0199</p>
+        <p>Email: School of Engineering@myshop.com | Phone: +1 981571899</p>
         <small>© {new Date().getFullYear()} myshop. All rights reserved.</small>
       </footer>
     </main>
