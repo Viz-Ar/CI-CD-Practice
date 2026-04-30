@@ -112,7 +112,7 @@ export default function HomePage() {
       <footer id="contact" className="footer">
         <h2>myshop</h2>
         <p>Email: School of Engineering@myshop.com | Phone: +1 981571899</p>
-        <small>© {new Date().getFullYear()} myshop. All rights reserved.</small>
+        <small>© {new Date().getFullYear()} myshop. All rights reserved by owner.</small>
       </footer>
     </main>
   );
